@@ -27,3 +27,8 @@ h1 span:nth-child(6) {
 .search-bar {	
     width: 500px;
 }
+
+h3 {
+	text-align: center;
+	color: green;
+}
